@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="345"
+   height="75.000015"
+   id="svg3131"
+   version="1.1"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="viewitem.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs3133">
+    <linearGradient
+       id="linearGradient4130">
+      <stop
+         style="stop-color:#f5f5f5;stop-opacity:1;"
+         offset="0"
+         id="stop4132" />
+      <stop
+         style="stop-color:#dedede;stop-opacity:1;"
+         offset="1"
+         id="stop4134" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4072">
+      <stop
+         style="stop-color:#f5f5f5;stop-opacity:1;"
+         offset="0"
+         id="stop4074" />
+      <stop
+         style="stop-color:#f5f5f5;stop-opacity:1;"
+         offset="1"
+         id="stop4076" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#292f34"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.472546"
+     inkscape:cx="108.56588"
+     inkscape:cy="27.789409"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showborder="true"
+     inkscape:window-width="2557"
+     inkscape:window-height="1387"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3202"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="-5.2587889e-06"
+       spacingx="1"
+       spacingy="1"
+       units="px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3136">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-305.35714,-537.71931)">
+    <g
+       transform="translate(99.999993,97.142825)"
+       id="hover-topright"
+       inkscape:export-filename="/home/mcder3/rect6185.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       style="fill:#333399;fill-opacity:0.2">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3976"
+         d="m 275.35715,440.57648 0,5 5,0 0,-2 c 0,-1.662 -1.338,-3 -3,-3 l -2,0 z"
+         style="fill:#333399;fill-opacity:0.2;fill-rule:evenodd;stroke:none" />
+    </g>
+    <g
+       transform="translate(99.999993,97.142825)"
+       id="hover-right"
+       inkscape:export-filename="/home/mcder3/rect6185.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       style="fill:#333399;fill-opacity:0.2">
+      <rect
+         transform="translate(205.35715,440.57648)"
+         y="5"
+         x="70"
+         height="65"
+         width="5"
+         id="rect3984"
+         style="fill:#333399;fill-opacity:0.2;stroke:none" />
+    </g>
+    <g
+       id="hover-left"
+       transform="matrix(-1,0,0,1,585.71429,97.142835)"
+       inkscape:export-filename="/home/mcder3/rect6185.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       style="fill:#333399;fill-opacity:0.2">
+      <rect
+         style="fill:#333399;fill-opacity:0.2;stroke:none"
+         id="rect3992"
+         width="5"
+         height="65"
+         x="70"
+         y="5"
+         transform="translate(205.35715,440.57648)" />
+    </g>
+    <g
+       id="hover-bottom"
+       transform="matrix(0,1,-1,0,820.93362,332.36216)"
+       inkscape:export-filename="/home/mcder3/rect6185.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       style="fill:#333399;fill-opacity:0.2">
+      <rect
+         style="fill:#333399;fill-opacity:0.2;stroke:none"
+         id="rect4000"
+         width="5"
+         height="65"
+         x="70"
+         y="5"
+         transform="translate(205.35715,440.57648)" />
+    </g>
+    <g
+       transform="matrix(0,-1,-1,0,820.93362,818.07646)"
+       id="hover-top"
+       inkscape:export-filename="/home/mcder3/rect6185.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       style="fill:#333333;fill-opacity:0.2">
+      <rect
+         transform="translate(205.35715,440.57648)"
+         y="5"
+         x="70"
+         height="65"
+         width="5"
+         id="rect4008"
+         style="fill:#333333;fill-opacity:0.2;stroke:none" />
+    </g>
+    <g
+       id="hover-topleft"
+       transform="matrix(-1,0,0,1,585.71429,97.142825)"
+       inkscape:export-filename="/home/mcder3/rect6185.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       style="fill:#333399;fill-opacity:0.2">
+      <path
+         style="fill:#333399;fill-opacity:0.2;fill-rule:evenodd;stroke:none"
+         d="m 275.35715,440.57648 0,5 5,0 0,-2 c 0,-1.662 -1.338,-3 -3,-3 l -2,0 z"
+         id="path4016"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="hover-bottomright"
+       transform="matrix(1,0,0,-1,99.999993,1053.2958)"
+       inkscape:export-filename="/home/mcder3/rect6185.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       style="fill:#333399;fill-opacity:0.2">
+      <path
+         style="fill:#333399;fill-opacity:0.2;fill-rule:evenodd;stroke:none"
+         d="m 275.35715,440.57648 0,5 5,0 0,-2 c 0,-1.662 -1.338,-3 -3,-3 l -2,0 z"
+         id="path4024"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,-1,585.71429,1053.2958)"
+       id="hover-bottomleft"
+       inkscape:export-filename="/home/mcder3/rect6185.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       style="fill:#333399;fill-opacity:0.2">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4032"
+         d="m 275.35715,440.57648 0,5 5,0 0,-2 c 0,-1.662 -1.338,-3 -3,-3 l -2,0 z"
+         style="fill:#333399;fill-opacity:0.2;fill-rule:evenodd;stroke:none" />
+    </g>
+    <rect
+       style="fill:#333399;fill-opacity:1;stroke:none;opacity:0.98"
+       id="hover-center"
+       width="65"
+       height="65"
+       x="310.35715"
+       y="542.7193"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       transform="translate(279.99999,97.142825)"
+       id="selected-topright"
+       inkscape:export-filename="/home/mcder3/rect6185.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       style="fill:#6666cc;fill-opacity:0.81">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4082"
+         d="m 275.35715,440.57648 0,5 5,0 0,-2 c 0,-1.662 -1.338,-3 -3,-3 l -2,0 z"
+         style="fill:#6666cc;fill-opacity:0.81;fill-rule:evenodd;stroke:none" />
+    </g>
+    <g
+       transform="translate(279.99999,97.142825)"
+       id="selected-right"
+       inkscape:export-filename="/home/mcder3/rect6185.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       style="fill:#6666cc;fill-opacity:0.81">
+      <rect
+         transform="translate(205.35715,440.57648)"
+         y="5"
+         x="70"
+         height="65"
+         width="5"
+         id="rect4088"
+         style="fill:#6666cc;fill-opacity:0.81;stroke:none" />
+    </g>
+    <g
+       id="selected-left"
+       transform="matrix(-1,0,0,1,765.71429,97.142835)"
+       inkscape:export-filename="/home/mcder3/rect6185.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       style="fill:#6666cc;fill-opacity:0.81">
+      <rect
+         style="fill:#6666cc;fill-opacity:0.81;stroke:none"
+         id="rect4094"
+         width="5"
+         height="65"
+         x="70"
+         y="5"
+         transform="translate(205.35715,440.57648)" />
+    </g>
+    <g
+       id="selected-bottom"
+       transform="matrix(0,1,-1,0,1000.9336,332.36216)"
+       inkscape:export-filename="/home/mcder3/rect6185.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       style="fill:#6666cc;fill-opacity:0.81">
+      <rect
+         style="fill:#6666cc;fill-opacity:0.81;stroke:none"
+         id="rect4100"
+         width="5"
+         height="65"
+         x="70"
+         y="5"
+         transform="translate(205.35715,440.57648)" />
+    </g>
+    <g
+       transform="matrix(0,-1,-1,0,1000.9336,818.07648)"
+       id="selected-top"
+       inkscape:export-filename="/home/mcder3/rect6185.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       style="fill:#6666cc;fill-opacity:0.81">
+      <rect
+         transform="translate(205.35715,440.57648)"
+         y="5"
+         x="70"
+         height="65"
+         width="5"
+         id="rect4106"
+         style="fill:#6666cc;fill-opacity:0.81;stroke:none" />
+    </g>
+    <g
+       id="selected-topleft"
+       transform="matrix(-1,0,0,1,765.71429,97.142825)"
+       inkscape:export-filename="/home/mcder3/rect6185.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       style="fill:#6666cc;fill-opacity:0.81">
+      <path
+         style="fill:#6666cc;fill-opacity:0.81;fill-rule:evenodd;stroke:none"
+         d="m 275.35715,440.57648 0,5 5,0 0,-2 c 0,-1.662 -1.338,-3 -3,-3 l -2,0 z"
+         id="path4112"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="selected-bottomright"
+       transform="matrix(1,0,0,-1,279.99999,1053.2958)"
+       inkscape:export-filename="/home/mcder3/rect6185.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       style="fill:#6666cc;fill-opacity:0.81">
+      <path
+         style="fill:#6666cc;fill-opacity:0.81;fill-rule:evenodd;stroke:none"
+         d="m 275.35715,440.57648 0,5 5,0 0,-2 c 0,-1.662 -1.338,-3 -3,-3 l -2,0 z"
+         id="path4118"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,-1,765.71429,1053.2958)"
+       id="selected-bottomleft"
+       inkscape:export-filename="/home/mcder3/rect6185.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       style="fill:#6666cc;fill-opacity:0.81">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4124"
+         d="m 275.35715,440.57648 0,5 5,0 0,-2 c 0,-1.662 -1.338,-3 -3,-3 l -2,0 z"
+         style="fill:#6666cc;fill-opacity:0.81;fill-rule:evenodd;stroke:none" />
+    </g>
+    <rect
+       style="fill:#6666cc;fill-opacity:0.81;stroke:none"
+       id="selected-center"
+       width="65"
+       height="65"
+       x="490.35715"
+       y="542.7193"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       style="fill:#9999ff;fill-opacity:0.88"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/mcder3/rect6185.png"
+       id="selected+hover-topright"
+       transform="translate(189.99999,97.142846)">
+      <path
+         style="fill:#9999ff;fill-opacity:0.88;fill-rule:evenodd;stroke:none"
+         d="m 275.35715,440.57648 0,5 5,0 0,-2 c 0,-1.662 -1.338,-3 -3,-3 l -2,0 z"
+         id="path4216"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#9999ff;fill-opacity:0.88;fill-rule:evenodd;stroke:none"
+         d="m 70,0 0,1 2,0 c 1.108,0 2,0.892 2,2 l 0,2 1,0 0,-2 C 75,1.338 73.662,0 72,0 l -2,0 z"
+         id="path4218"
+         transform="translate(205.35715,440.57648)"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#9999ff;fill-opacity:0.88"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/mcder3/rect6185.png"
+       id="selected+hover-right"
+       transform="translate(189.99999,97.142825)">
+      <rect
+         style="fill:#9999ff;fill-opacity:0.88;stroke:none"
+         id="rect4222"
+         width="5"
+         height="65"
+         x="70"
+         y="5"
+         transform="translate(205.35715,440.57648)" />
+      <rect
+         y="445.57648"
+         x="279.35715"
+         height="65"
+         width="1"
+         id="rect4224"
+         style="fill:#9999ff;fill-opacity:0.88;stroke:none" />
+    </g>
+    <g
+       style="fill:#9999ff;fill-opacity:0.88"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/mcder3/rect6185.png"
+       transform="matrix(-1,0,0,1,675.71429,97.142835)"
+       id="selected+hover-left">
+      <rect
+         transform="translate(205.35715,440.57648)"
+         y="5"
+         x="70"
+         height="65"
+         width="5"
+         id="rect4228"
+         style="fill:#9999ff;fill-opacity:0.88;stroke:none" />
+      <rect
+         style="fill:#9999ff;fill-opacity:0.88;stroke:none"
+         id="rect4230"
+         width="1"
+         height="65"
+         x="279.35715"
+         y="445.57648" />
+    </g>
+    <g
+       style="fill:#9999ff;fill-opacity:0.88"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/mcder3/rect6185.png"
+       transform="matrix(0,1,-1,0,910.93362,332.36216)"
+       id="selected+hover-bottom">
+      <rect
+         transform="translate(205.35715,440.57648)"
+         y="5"
+         x="70"
+         height="65"
+         width="5"
+         id="rect4234"
+         style="fill:#9999ff;fill-opacity:0.88;stroke:none" />
+      <rect
+         style="fill:#9999ff;fill-opacity:0.88;stroke:none"
+         id="rect4236"
+         width="1"
+         height="65"
+         x="279.35715"
+         y="445.57648" />
+    </g>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       y="542.7193"
+       x="400.35715"
+       height="65"
+       width="65"
+       id="selected+hover-center"
+       style="fill:#9999ff;fill-opacity:0.88;stroke:none" />
+    <g
+       style="fill:#9999ff;fill-opacity:0.88"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/mcder3/rect6185.png"
+       id="selected+hover-top"
+       transform="matrix(0,-1,-1,0,910.93362,818.07646)">
+      <rect
+         style="fill:#9999ff;fill-opacity:0.88;stroke:none"
+         id="rect4240"
+         width="5"
+         height="65"
+         x="70"
+         y="5"
+         transform="translate(205.35715,440.57648)" />
+      <rect
+         y="445.57648"
+         x="279.35715"
+         height="65"
+         width="1"
+         id="rect4242"
+         style="fill:#9999ff;fill-opacity:0.88;stroke:none" />
+    </g>
+    <g
+       style="fill:#9999ff;fill-opacity:0.88"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/mcder3/rect6185.png"
+       transform="matrix(-1,0,0,1,675.71429,97.142825)"
+       id="selected+hover-topleft">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4246"
+         d="m 275.35715,440.57648 0,5 5,0 0,-2 c 0,-1.662 -1.338,-3 -3,-3 l -2,0 z"
+         style="fill:#9999ff;fill-opacity:0.88;fill-rule:evenodd;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         transform="translate(205.35715,440.57648)"
+         id="path4248"
+         d="m 70,0 0,1 2,0 c 1.108,0 2,0.892 2,2 l 0,2 1,0 0,-2 C 75,1.338 73.662,0 72,0 l -2,0 z"
+         style="fill:#9999ff;fill-opacity:0.88;fill-rule:evenodd;stroke:none" />
+    </g>
+    <g
+       style="fill:#9999ff;fill-opacity:0.88"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/mcder3/rect6185.png"
+       transform="matrix(1,0,0,-1,189.99999,1053.2958)"
+       id="selected+hover-bottomright">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4252"
+         d="m 275.35715,440.57648 0,5 5,0 0,-2 c 0,-1.662 -1.338,-3 -3,-3 l -2,0 z"
+         style="fill:#9999ff;fill-opacity:0.88;fill-rule:evenodd;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         transform="translate(205.35715,440.57648)"
+         id="path4254"
+         d="m 70,0 0,1 2,0 c 1.108,0 2,0.892 2,2 l 0,2 1,0 0,-2 C 75,1.338 73.662,0 72,0 l -2,0 z"
+         style="fill:#9999ff;fill-opacity:0.88;fill-rule:evenodd;stroke:none" />
+    </g>
+    <g
+       style="fill:#9999ff;fill-opacity:0.88"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/mcder3/rect6185.png"
+       id="selected+hover-bottomleft"
+       transform="matrix(-1,0,0,-1,675.71429,1053.2958)">
+      <path
+         style="fill:#9999ff;fill-opacity:0.88;fill-rule:evenodd;stroke:none"
+         d="m 275.35715,440.57648 0,5 5,0 0,-2 c 0,-1.662 -1.338,-3 -3,-3 l -2,0 z"
+         id="path4258"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#9999ff;fill-opacity:0.88;fill-rule:evenodd;stroke:none"
+         d="m 70,0 0,1 2,0 c 1.108,0 2,0.892 2,2 l 0,2 1,0 0,-2 C 75,1.338 73.662,0 72,0 l -2,0 z"
+         id="path4260"
+         transform="translate(205.35715,440.57648)"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="translate(369.99999,97.142825)"
+       id="normal-topright"
+       inkscape:export-filename="/home/mcder3/rect6185.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       style="fill:#f5f5f5;fill-opacity:0.00392157">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4285"
+         d="m 275.35715,440.57648 0,5 5,0 0,-2 c 0,-1.662 -1.338,-3 -3,-3 l -2,0 z"
+         style="fill:#f5f5f5;fill-opacity:0.00392157;fill-rule:evenodd;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         transform="translate(205.35715,440.57648)"
+         id="path4287"
+         d="m 70,0 0,1 2,0 c 1.108,0 2,0.892 2,2 l 0,2 1,0 0,-2 C 75,1.338 73.662,0 72,0 l -2,0 z"
+         style="fill:#f5f5f5;fill-opacity:0.00392157;fill-rule:evenodd;stroke:none" />
+    </g>
+    <g
+       transform="translate(369.99999,97.142825)"
+       id="normal-right"
+       inkscape:export-filename="/home/mcder3/rect6185.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       style="fill:#f5f5f5;fill-opacity:0.00392157">
+      <rect
+         transform="translate(205.35715,440.57648)"
+         y="5"
+         x="70"
+         height="65"
+         width="5"
+         id="rect4291"
+         style="fill:#f5f5f5;fill-opacity:0.00392157;stroke:none" />
+      <rect
+         style="fill:#f5f5f5;fill-opacity:0.00392157;stroke:none"
+         id="rect4293"
+         width="1"
+         height="65"
+         x="279.35715"
+         y="445.57648" />
+    </g>
+    <g
+       id="normal-left"
+       transform="matrix(-1,0,0,1,855.71429,97.142835)"
+       inkscape:export-filename="/home/mcder3/rect6185.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       style="fill:#f5f5f5;fill-opacity:0.00392157">
+      <rect
+         style="fill:#f5f5f5;fill-opacity:0.00392157;stroke:none"
+         id="rect4297"
+         width="5"
+         height="65"
+         x="70"
+         y="5"
+         transform="translate(205.35715,440.57648)" />
+      <rect
+         y="445.57648"
+         x="279.35715"
+         height="65"
+         width="1"
+         id="rect4299"
+         style="fill:#f5f5f5;fill-opacity:0.00392157;stroke:none" />
+    </g>
+    <g
+       id="normal-bottom"
+       transform="matrix(0,1,-1,0,1090.9336,332.36216)"
+       inkscape:export-filename="/home/mcder3/rect6185.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       style="fill:#f5f5f5;fill-opacity:0.00392157">
+      <rect
+         style="fill:#f5f5f5;fill-opacity:0.00392157;stroke:none"
+         id="rect4303"
+         width="5"
+         height="65"
+         x="70"
+         y="5"
+         transform="translate(205.35715,440.57648)" />
+      <rect
+         y="445.57648"
+         x="279.35715"
+         height="65"
+         width="1"
+         id="rect4305"
+         style="fill:#f5f5f5;fill-opacity:0.00392157;stroke:none" />
+    </g>
+    <g
+       transform="matrix(0,-1,-1,0,1090.9336,818.07646)"
+       id="normal-top"
+       inkscape:export-filename="/home/mcder3/rect6185.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       style="fill:#f5f5f5;fill-opacity:0.00392157">
+      <rect
+         transform="translate(205.35715,440.57648)"
+         y="5"
+         x="70"
+         height="65"
+         width="5"
+         id="rect4309"
+         style="fill:#f5f5f5;fill-opacity:0.00392157;stroke:none" />
+      <rect
+         style="fill:#f5f5f5;fill-opacity:0.00392157;stroke:none"
+         id="rect4311"
+         width="1"
+         height="65"
+         x="279.35715"
+         y="445.57648" />
+    </g>
+    <g
+       id="normal-topleft"
+       transform="matrix(-1,0,0,1,855.71429,97.142825)"
+       inkscape:export-filename="/home/mcder3/rect6185.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       style="fill:#f5f5f5;fill-opacity:0.00392157">
+      <path
+         style="fill:#f5f5f5;fill-opacity:0.00392157;fill-rule:evenodd;stroke:none"
+         d="m 275.35715,440.57648 0,5 5,0 0,-2 c 0,-1.662 -1.338,-3 -3,-3 l -2,0 z"
+         id="path4315"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#f5f5f5;fill-opacity:0.00392157;fill-rule:evenodd;stroke:none"
+         d="m 70,0 0,1 2,0 c 1.108,0 2,0.892 2,2 l 0,2 1,0 0,-2 C 75,1.338 73.662,0 72,0 l -2,0 z"
+         id="path4317"
+         transform="translate(205.35715,440.57648)"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="normal-bottomright"
+       transform="matrix(1,0,0,-1,369.99999,1053.2958)"
+       inkscape:export-filename="/home/mcder3/rect6185.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       style="fill:#f5f5f5;fill-opacity:0.00392157">
+      <path
+         style="fill:#f5f5f5;fill-opacity:0.00392157;fill-rule:evenodd;stroke:none"
+         d="m 275.35715,440.57648 0,5 5,0 0,-2 c 0,-1.662 -1.338,-3 -3,-3 l -2,0 z"
+         id="path4321"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#f5f5f5;fill-opacity:0.00392157;fill-rule:evenodd;stroke:none"
+         d="m 70,0 0,1 2,0 c 1.108,0 2,0.892 2,2 l 0,2 1,0 0,-2 C 75,1.338 73.662,0 72,0 l -2,0 z"
+         id="path4323"
+         transform="translate(205.35715,440.57648)"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,-1,855.71429,1053.2958)"
+       id="normal-bottomleft"
+       inkscape:export-filename="/home/mcder3/rect6185.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       style="fill:#f5f5f5;fill-opacity:0.00392157">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4327"
+         d="m 275.35715,440.57648 0,5 5,0 0,-2 c 0,-1.662 -1.338,-3 -3,-3 l -2,0 z"
+         style="fill:#f5f5f5;fill-opacity:0.00392157;fill-rule:evenodd;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         transform="translate(205.35715,440.57648)"
+         id="path4329"
+         d="m 70,0 0,1 2,0 c 1.108,0 2,0.892 2,2 l 0,2 1,0 0,-2 C 75,1.338 73.662,0 72,0 l -2,0 z"
+         style="fill:#f5f5f5;fill-opacity:0.00392157;fill-rule:evenodd;stroke:none" />
+    </g>
+    <rect
+       style="fill:#f5f5f5;fill-opacity:0.00392157;stroke:none"
+       id="normal-center"
+       width="65"
+       height="65"
+       x="580.35718"
+       y="542.7193"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="hint-tile-center"
+       width="60"
+       height="60"
+       x="485.35715"
+       y="457.71933" />
+  </g>
+</svg>
