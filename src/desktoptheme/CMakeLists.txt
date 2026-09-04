@@ -100,5 +100,5 @@ endfunction()
 
 
 add_subdirectory( breeze )
-add_subdirectory( breeze-dark )
+add_subdirectory( jacks-customizations )
 add_subdirectory( breeze-light )
