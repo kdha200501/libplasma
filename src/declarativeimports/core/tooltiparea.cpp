@@ -72,7 +72,7 @@ void ToolTipArea::settingsChanged(const KConfigGroup &group, const QByteArrayLis
 void ToolTipArea::loadSettings(const KConfigGroup &cfg)
 {
     m_interval = cfg.readEntry("Delay", 700);
-    m_tooltipsEnabledGlobally = (m_interval > 0);
+    m_tooltipsEnabledGlobally = false;
 }
 
 QQuickItem *ToolTipArea::mainItem() const
